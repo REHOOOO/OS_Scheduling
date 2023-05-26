@@ -24,3 +24,9 @@
 ### 실시간 스케줄링
 #### 1. Rate-Monotonic 스케줄링 (Rate-Monotonic Scheduling)
 #### 2. Earliest-Deadline-First 스케줄링 (Earliest-Deadline-First Scheduling)
+
+## input
+입력 포맷
+
+## main.py
+입력 포맷 생성
